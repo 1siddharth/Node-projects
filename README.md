@@ -2,9 +2,10 @@
 
 clone in your local machine and run
 #
-npm start
-#
 npm install 
+
+#
+npm start
 #
 run node index.js to run script,
 server will be running at http://localhost:3000
